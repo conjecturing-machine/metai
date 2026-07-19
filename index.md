@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Thingking Machine
+title: Conjecturing Machine
 ---
-# Thingking Machine
+# Conjecturing Machine
 
 <br>
 Go directly to the [Dialogue Page]({{ 'machine' | relative_url }}) its [Thoughts Page]({{ 'thoughts' | relative_url }}) or change the settings.

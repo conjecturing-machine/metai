@@ -1,1 +1,1 @@
-### Thingking-Machine (metai)
+### Conjecturing-Machine (metai)
